@@ -1,4 +1,4 @@
-## Hi, I'm Diego 👋
+## Hi, I'm Diego 👋💻
 
 <!--
 **diegoal3mx/diegoal3mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegoal3mx)](https://github.com/anuraghazra/github-readme-stats)-->
+I'm a Software Engineer student at University of La Salle Bajío in León, Guanajuato, México
+
 ### 👨‍💻 Languages I code in
   * Java, Swift, C#, Javascript, Typescript
  
